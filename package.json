@@ -1,0 +1,13 @@
+{
+  "name": "nano-birdclaw-add-value",
+  "version": "0.1.0",
+  "description": "Single-file X/Twitter digest that finds the conversations you can actually add value to — inspired by birdclaw, distilled to zero dependencies.",
+  "type": "module",
+  "bin": {
+    "nano-birdclaw": "./nano-birdclaw.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
